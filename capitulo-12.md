@@ -1,4 +1,12 @@
-**CAPÍTULO 12: Formação de Palavras e Expansão Lexical - Criando Novos Significados em Valiriano**
+---
+
+# CAPÍTULO 12
+
+# Formação de Palavras e Expansão Lexical - Criando Novos Significados em Valiriano
+
+---
+
+![img](valir.png)
 
 **12.1 Introdução: Para Além do Léxico Básico - A Natureza Dinâmica do Vocabulário**
 
