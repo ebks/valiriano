@@ -1,4 +1,12 @@
-**CAPÍTULO 13: Campos Semânticos e Vocabulário Temático - Explorando o Léxico e o Significado Valiriano**
+---
+
+# CAPÍTULO 13
+
+# Campos Semânticos e Vocabulário Temático - Explorando o Léxico e o Significado Valiriano
+
+---
+
+![img](valir.png)
 
 **13.1 Introdução: Para Além da Estrutura - O Coração Semântico da Língua**
 
