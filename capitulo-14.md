@@ -1,4 +1,12 @@
-**CAPÍTULO 14: Pragmática e Uso Sociolinguístico (Contexto Ficcional) - A Língua em Ação na Sociedade Valiriana**
+---
+
+# CAPÍTULO 14
+
+# Pragmática e Uso Sociolinguístico (Contexto Ficcional) - A Língua em Ação na Sociedade Valiriana
+
+---
+
+![img](valir.png)
 
 **14.1 Introdução: Para Além da Gramática - Linguagem, Contexto e Sociedade**
 
