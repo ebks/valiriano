@@ -1,4 +1,11 @@
-**CAPÍTULO 8: Modos Verbais, Vozes e Formas Nominais - Expressando Nuances e Estruturas Complexas**
+---
+
+# CAPÍTULO 8
+
+# Modos Verbais, Vozes e Formas Nominais - Expressando Nuances e Estruturas Complexas
+
+---
+![img](valir.png)
 
 **8.1 Introdução: Além da Realidade - Modalidade, Perspectiva e Formas Híbridas**
 
