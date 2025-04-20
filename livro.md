@@ -8,7 +8,7 @@
 
 Luciano Silva
 
-Archmaester Gīmaerys
+*Archmaester Gīmaerys*
 
 ----
 ![img](valir.png)
