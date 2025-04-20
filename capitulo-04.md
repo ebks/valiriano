@@ -1,4 +1,12 @@
-**CAPÍTULO 4: O Sistema de Casos Nominais - Funções e Formas na Sintaxe Valiriana**
+---
+
+# CAPÍTULO 4
+
+# O Sistema de Casos Nominais - Funções e Formas na Sintaxe Valiriana
+
+---
+
+![img](valir.png)
 
 **4.1 Introdução: Marcando as Relações - O Papel dos Casos Gramaticais**
 
