@@ -1,4 +1,11 @@
-**CAPÍTULO 11: Estrutura da Oração Complexa - Coordenação e Subordinação na Sintaxe Valiriana**
+---
+
+# CAPÍTULO 11
+
+# Estrutura da Oração Complexa - Coordenação e Subordinação na Sintaxe Valiriana
+
+---
+![img](valir.png)
 
 **11.1 Introdução: Além da Oração Simples - Combinando Ideias em Alto Valiriano**
 
