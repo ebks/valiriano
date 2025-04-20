@@ -2,7 +2,7 @@
 
 # CAPÍTULO 6
 
-# Pronomes - Referência, Identidade e a Complexidade da Flexão Pronominal**
+# Pronomes - Referência, Identidade e a Complexidade da Flexão Pronominal
 
 ----
 
