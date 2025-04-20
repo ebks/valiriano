@@ -1,4 +1,12 @@
-**CAPÍTULO 6: Pronomes - Referência, Identidade e a Complexidade da Flexão Pronominal**
+----
+
+# CAPÍTULO 6
+
+# Pronomes - Referência, Identidade e a Complexidade da Flexão Pronominal**
+
+----
+
+![img](valir.png)
 
 **6.1 Introdução: Substituindo Nomes e Tecendo Referências**
 
