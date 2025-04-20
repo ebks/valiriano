@@ -1,7 +1,3 @@
-Ótimo! Vamos agora construir o Capítulo 5, dedicado aos adjetivos e à crucial mecânica da concordância em Alto Valiriano. Seguiremos a estrutura estabelecida, visando a profundidade académica e a meta de palavras, incluindo referências e resumos.
-
----
-
 **CAPÍTULO 5: Adjetivos - Qualidade, Descrição e a Dança da Concordância**
 
 **5.1 Introdução: Modificando Nomes e Descrevendo Mundos**
