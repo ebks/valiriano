@@ -1,7 +1,13 @@
 
 ---
 
-**CAPÍTULO 1: O Sistema Fonológico do Alto Valiriano**
+# CAPÍTULO 1
+
+# O Sistema Fonológico do Alto Valiriano
+
+---
+
+![img](valir.png)
 
 **1.1 Introdução à Fonética e Fonologia Valiriana: Os Sons da Língua dos Dragões**
 
