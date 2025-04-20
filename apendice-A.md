@@ -1,4 +1,12 @@
-**APÊNDICE A: Glossário Valiriano-Português**
+---
+
+# APÊNDICE A
+
+# Glossário Valiriano-Português
+
+---
+
+![img](valir.png)
 
 **Introdução:**
 
