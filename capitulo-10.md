@@ -1,4 +1,12 @@
-**CAPÍTULO 10: Estrutura da Oração Simples - Constituintes, Ordem e Relações Fundamentais**
+---
+
+# CAPÍTULO 10
+
+# Estrutura da Oração Simples - Constituintes, Ordem e Relações Fundamentais
+
+---
+
+![img](valir.png)
 
 **10.1 Introdução: Da Palavra à Sentença - A Arquitetura da Oração Valiriana**
 
