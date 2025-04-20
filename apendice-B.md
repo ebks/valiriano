@@ -1,4 +1,12 @@
-**APÊNDICE B: Glossário Português-Valiriano**
+---
+
+# APÊNDICE B
+
+# Glossário Português-Alto Valiriano
+
+---
+
+![img](valir.png)
 
 
 **Introdução:**
