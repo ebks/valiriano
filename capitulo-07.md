@@ -1,4 +1,12 @@
-**CAPÍTULO 7: O Verbo - Estrutura, Tempos e Aspectos no Modo Indicativo**
+---
+
+# CAPÍTULO 7
+
+# O Verbo - Estrutura, Tempos e Aspectos no Modo Indicativo
+
+---
+
+![img](valir.png)
 
 **7.1 Introdução: O Núcleo Dinâmico da Oração - O Verbo Valiriano**
 
