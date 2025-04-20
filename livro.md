@@ -36,30 +36,29 @@ Para facilitar a navegação e o estudo, a presente obra organiza-se da seguinte
 *   **Introdução:** Apresenta o Alto Valiriano no seu contexto linguístico (como língua flexiva) e ficcional (sua origem e papel em "Gelo e Fogo"), discute as fontes utilizadas e estabelece as convenções adotadas ao longo do livro.
 
 *   **Parte I: Fonética, Fonologia e Ortografia**
-    *   **Capítulo 1: O Sistema Fonológico do Alto Valiriano:** Detalha o inventário completo de sons (vogais, incluindo distinção de quantidade longa/curta, e consoantes) com transcrição IPA, descreve processos fonológicos relevantes (como assimilação, se houver) e aborda as regras de acentuação tônica.
-    *   **Capítulo 2: Ortografia e Transcrição:** Explica a correspondência entre os sons (fonemas) e as letras (grafemas) do alfabeto latino adaptado, incluindo o uso de diacríticos como o macron, e estabelece as regras de leitura da escrita valiriana.
+    *   [**Capítulo 1: O Sistema Fonológico do Alto Valiriano:**](capitulo-01.md) Detalha o inventário completo de sons (vogais, incluindo distinção de quantidade longa/curta, e consoantes) com transcrição IPA, descreve processos fonológicos relevantes (como assimilação, se houver) e aborda as regras de acentuação tônica.
+    *   [**Capítulo 2: Ortografia e Transcrição:**](capitulo-02.md) Explica a correspondência entre os sons (fonemas) e as letras (grafemas) do alfabeto latino adaptado, incluindo o uso de diacríticos como o macron, e estabelece as regras de leitura da escrita valiriana.
 
 *   **Parte II: Morfologia Nominal e Pronominal**
-    *   **Capítulo 3: O Substantivo: Gênero e Número:** Introduz os quatro géneros gramaticais (Lunar, Solar, Terrestre, Aquático), os critérios para sua identificação e as regras para formação do plural (e outros números, se aplicável) a partir do singular.
-    *   **Capítulo 4: O Sistema de Casos Nominais:** Apresenta e explica a função sintático-semântica de cada um dos oito casos (Nominativo, Acusativo, Genitivo, Dativo, Locativo, Instrumental, Comitativo, Vocativo), fornecendo os paradigmas de declinação para substantivos das diferentes classes.
-    *   **Capítulo 5: Adjetivos:** Aborda as regras de concordância obrigatória dos adjetivos com os substantivos em género, número e caso, detalha seus padrões de declinação e discute a formação e uso dos graus comparativo e superlativo.
-    *   **Capítulo 6: Pronomes:** Cobre as diversas categorias de pronomes (pessoais, possessivos, demonstrativos, interrogativos, relativos, indefinidos), apresentando suas formas declinadas e regras de uso específicas.
+    *   [**Capítulo 3: O Substantivo: Gênero e Número:**](capitulo-03.md) Introduz os quatro géneros gramaticais (Lunar, Solar, Terrestre, Aquático), os critérios para sua identificação e as regras para formação do plural (e outros números, se aplicável) a partir do singular.
+    *   [**Capítulo 4: O Sistema de Casos Nominais:**](capitulo-04.md) Apresenta e explica a função sintático-semântica de cada um dos oito casos (Nominativo, Acusativo, Genitivo, Dativo, Locativo, Instrumental, Comitativo, Vocativo), fornecendo os paradigmas de declinação para substantivos das diferentes classes.
+    *   [**Capítulo 5: Adjetivos:**]](capitulo-05.md) Aborda as regras de concordância obrigatória dos adjetivos com os substantivos em género, número e caso, detalha seus padrões de declinação e discute a formação e uso dos graus comparativo e superlativo.
+    *   [**Capítulo 6: Pronomes:**](capitulo-06.md) Cobre as diversas categorias de pronomes (pessoais, possessivos, demonstrativos, interrogativos, relativos, indefinidos), apresentando suas formas declinadas e regras de uso específicas.
 
 *   **Parte III: Morfologia Verbal e Sintaxe**
-    *   **Capítulo 7: O Verbo: Estrutura, Tempos e Aspectos (Indicativo):** Analisa a estrutura básica do verbo valiriano (raiz, tema), introduz as classes de conjugação e detalha a formação e o uso dos tempos e aspectos no modo Indicativo (presente, passado, futuro).
-    *   **Capítulo 8: Modos Verbais, Vozes e Formas Nominais:** Expande a análise verbal para incluir os modos Subjuntivo e Imperativo, as vozes Ativa e Passiva, e as formas não-finitas do verbo como infinitivos e particípios, além de abordar os principais verbos irregulares.
-    *   **Capítulo 9: Advérbios, Preposições e Conjunções:** Discute a formação e o uso de advérbios, lista as principais preposições e a regência de caso que exigem, e apresenta as conjunções coordenativas e subordinativas essenciais para conectar orações.
-    *   **Capítulo 10: Estrutura da Oração Simples:** Examina a ordem predominante dos constituintes (Sujeito-Verbo-Objeto e suas variações), as regras de concordância entre verbo e sujeito, a estrutura interna dos sintagmas nominal e verbal, e a formação de frases negativas e interrogativas.
-    *   **Capítulo 11: Estrutura da Oração Complexa:** Detalha como as orações se combinam através da coordenação e, principalmente, da subordinação, cobrindo orações adverbiais (temporais, causais, condicionais, etc.), substantivas (completivas) e adjetivas (relativas), incluindo o uso de modos verbais específicos e pronomes relativos.
+    *   [**Capítulo 7: O Verbo: Estrutura, Tempos e Aspectos (Indicativo):**](capitulo-07.md) Analisa a estrutura básica do verbo valiriano (raiz, tema), introduz as classes de conjugação e detalha a formação e o uso dos tempos e aspectos no modo Indicativo (presente, passado, futuro).
+    *   [**Capítulo 8: Modos Verbais, Vozes e Formas Nominais:**](capitulo-08.md) Expande a análise verbal para incluir os modos Subjuntivo e Imperativo, as vozes Ativa e Passiva, e as formas não-finitas do verbo como infinitivos e particípios, além de abordar os principais verbos irregulares.
+    *   [**Capítulo 9: Advérbios, Preposições e Conjunções:**](capitulo-09.md) Discute a formação e o uso de advérbios, lista as principais preposições e a regência de caso que exigem, e apresenta as conjunções coordenativas e subordinativas essenciais para conectar orações.
+    *   [**Capítulo 10: Estrutura da Oração Simples:**](capitulo-10.md) Examina a ordem predominante dos constituintes (Sujeito-Verbo-Objeto e suas variações), as regras de concordância entre verbo e sujeito, a estrutura interna dos sintagmas nominal e verbal, e a formação de frases negativas e interrogativas.
+    *   [**Capítulo 11: Estrutura da Oração Complexa:**](capitulo-11.md) Detalha como as orações se combinam através da coordenação e, principalmente, da subordinação, cobrindo orações adverbiais (temporais, causais, condicionais, etc.), substantivas (completivas) e adjetivas (relativas), incluindo o uso de modos verbais específicos e pronomes relativos.
 
 *   **Parte IV: Léxico, Semântica e Pragmática**
-    *   **Capítulo 12: Formação de Palavras e Expansão Lexical:** Explora os mecanismos de criação de novo vocabulário no Alto Valiriano, focando nos processos de derivação (uso de prefixos e sufixos) e composição (junção de palavras).
-    *   **Capítulo 13: Campos Semânticos e Vocabulário Temático:** Apresenta listas de vocabulário organizadas por temas (saudações, números, família, termos de GoT/HotD) e discute fenómenos semânticos como polissemia e relações lexicais no contexto da língua.
-    *   **Capítulo 14: Pragmática e Uso Sociolinguístico (Contexto Ficcional):** Analisa como o Alto Valiriano é usado em diferentes situações sociais dentro do universo ficcional, abordando questões de formalidade, polidez, e o uso da língua como marcador de identidade, poder e conhecimento arcano, com base em diálogos canônicos.
+    *   [**Capítulo 12: Formação de Palavras e Expansão Lexical:**](capitulo-12.md) Explora os mecanismos de criação de novo vocabulário no Alto Valiriano, focando nos processos de derivação (uso de prefixos e sufixos) e composição (junção de palavras).
+    *   [**Capítulo 13: Campos Semânticos e Vocabulário Temático:**](capitulo-13.md) Apresenta listas de vocabulário organizadas por temas (saudações, números, família, termos de GoT/HotD) e discute fenómenos semânticos como polissemia e relações lexicais no contexto da língua.
+    *   [**Capítulo 14: Pragmática e Uso Sociolinguístico (Contexto Ficcional):**](capitulo-14.md) Analisa como o Alto Valiriano é usado em diferentes situações sociais dentro do universo ficcional, abordando questões de formalidade, polidez, e o uso da língua como marcador de identidade, poder e conhecimento arcano, com base em diálogos canônicos.
 
-*   **Apêndices:** Contêm material de referência rápida, como tabelas completas de declinação nominal e conjugação verbal (regular e irregular), glossários bidirecionais (Alto Valiriano-Português e Português-Alto Valiriano) e um guia de nomes próprios.
-
-*   **Índice Remissivo:** Permite a localização rápida de termos gramaticais, conceitos e palavras específicas ao longo do livro.
+*   [**Apêndice A:**](apendice-A.md) Glossário Alto Valiriano-Português
+*   [**Apêndice B:**](apendice-b.md) Glossário Português-Alto
 
 Cada capítulo, como mencionado, culmina em secções de **Análise de Textos Canônicos** e **Prática Aplicada**, garantindo que a teoria seja constantemente reforçada pela prática e pela conexão com o universo que deu origem à língua.
 
