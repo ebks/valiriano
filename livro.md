@@ -11,6 +11,9 @@ Luciano Silva
 Archmaester Gīmaerys
 
 ----
+![img](valir.png)
+----
+
 
 Nas vastas paisagens da imaginação humana, poucas criações alcançaram a ressonância cultural e o alcance global de "As Crónicas de Gelo e Fogo" de George R. R. Martin e das suas subsequentes adaptações televisivas, "Game of Thrones" e "House of the Dragon". Estas narrativas épicas transportaram milhões para um mundo de complexidade política, personagens moralmente ambíguos e uma história profunda e multifacetada. No coração pulsante desta construção de mundo, reverberando através de séculos de história ficcional, encontra-se uma língua: o Alto Valiriano. Ouvida nos comandos incandescentes que despertam dragões, nos sussurros de profecias antigas e nas declarações solenes de uma linhagem que outrora dominou grande parte do mundo conhecido, o Alto Valiriano transcende a mera funcionalidade de diálogo ficcional. É um artefacto cultural dentro do seu próprio universo, um símbolo de poder perdido, conhecimento arcano e uma herança ancestral que molda o destino dos seus raros falantes. A sua presença confere uma camada de autenticidade e profundidade que eleva a experiência imersiva, transformando o fantástico em algo tangivelmente real, pelo menos linguisticamente. O fascínio exercido por esta língua, no entanto, não se restringe ao seu papel diegético. Para linguistas, estudantes de línguas e entusiastas de universos ficcionais, o Alto Valiriano representa um fascinante objeto de estudo por direito próprio, um testemunho da arte e da ciência da criação de línguas, ou "conlanging".
 
