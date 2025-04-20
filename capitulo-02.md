@@ -1,7 +1,13 @@
 
 ---
 
-**CAPÍTULO 2: Ortografia e Transcrição - A Representação Escrita do Alto Valiriano**
+# CAPÍTULO 2
+
+# Ortografia e Transcrição - A Representação Escrita do Alto Valiriano
+
+---
+
+![img](valir.png)
 
 **2.1 Introdução: Da Voz à Letra - A Escrita Valiriana**
 
